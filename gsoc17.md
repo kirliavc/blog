@@ -6,7 +6,7 @@ Visualization components are components for App Inventor that can make data plot
 
 ## Design Document 
 
-https://github.com/kirliavc/blog/blob/master/component%20design.md
+https://docs.google.com/document/d/1IqGS70B3-R-Z4wxmw2F4diGIVa9pC3qNjVcix3CKlaU/edit#heading=h.ekbw9xu197m8
 
 ## Project Repository
 
