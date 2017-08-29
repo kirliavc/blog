@@ -2,7 +2,7 @@
 
 ## General Design
 
-The Chart Components uses the MPAndroidChart library for implementation. Users code will be processed by my methods, and then invoke the corresponding library methods. In this project, I designed three kinds of charts: Line Chart, Pie Chart and Bar Chart.
+The Chart Components uses the MPAndroidChart library for implementation. Users code will be processed by my methods, and then invoke the corresponding library methods. In this project, I designed three kinds of charts: Line Chart, Pie Chart and Bar Chart.  I created three sepreate components for that. The reason of creating separate components is clear: Data of pie chart is one-dimensional, but line chart and bar chart require data of two-dimensional. Besides that, the styling of different kinds of charts are also different, so I choose to create separate component for each kind of chart. 
 
 The design of chart components mainly consists of two parts: 
 - Setting data
@@ -21,6 +21,9 @@ I designed two methods of setting data. One is ```AddDataSet```, it requires a l
 In line chart or bar chart, x axis values might have their special meaning. Users should be able to customize the axis values. I provided a simple solution: ```SetXAxisValues```. It requires a list of strings. The first string in the list will be shown in position 0 of the x label. Second string in 1, etc.
 
 MPAndroidChart library supports many different styling methods. My component didn't include all of them. I chose some important methods. Supported methods are shown below.
+
+
+## API Documentation
 
 ## Pie Chart
 
@@ -104,6 +107,13 @@ Set the colors of every polygonal lines of the chart, in the order of time when 
 void SetXAxisValues(YailList list)
 ```
 Set the values that will be shown in the x axis, replacing the original values (0,1,2...).
+
+### RemoveDataSet
+```java
+void RemoveDataSet(String label)
+```
+Remove a data set and all its entries specified by the label. Fails if no data set is named by the label.
+
 
 ### LegendEnabled
 
@@ -197,3 +207,18 @@ Same as described in Pie Chart.
 ### ValueTextColor
 
 Same as described in Pie Chart.
+
+
+## User Feedback
+
+I asked my friend to test my components, and he provided me with the following feedback. 
+
+### About App Inventor
+
+- App Inventor provides a way to set a list of data of unfixed length. But it is too inconvenient. Everytime when user add a block, he has to drag a new 'Item' block. Users should be able to set the length of the list explicitly.
+
+- Sometimes two blocks can join even if their type doesn't match.
+
+### About Chart Component
+
+- The line chart should support two different Y axises(on left and right).
