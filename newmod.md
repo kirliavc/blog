@@ -3,7 +3,8 @@
 在国服（可能）即将上线的新模式中，精灵不但可以掌握平时无法掌握的技能、特性，还可以增加以前从来没有出现过的新技能和新特性，这一切都由我们自己来创造！
 
 该模式类似于去年官服的Super Staff Bros.Melee模式（现在官服已经下线）。这个模式基于Random Battle，每只精灵可以使用常规方式无法获取的技能（类似Hackmon），以及一个玩家自己设计的技能（这个所有效果都是自定义的）。除此以外，特性和道具的效果也都可以自己设置。每局比赛时，两位选手分别从系统的精灵库中随机抽取6只精灵进行对战。当前的精灵库如下：
-https://github.com/kirliavc/blog/blob/master/superstaffbrosmelee.md
+
+[https://kirliavc.github.io/blog/superstaffbrosmelee](https://kirliavc.github.io/blog/superstaffbrosmelee)
 
 为了让游戏在国服运行，我们希望各位玩家也参与进来设计自己的精灵，设计合理的精灵都会进入游戏的精灵池。希望大家在设计精灵时注意以下几点：
 
