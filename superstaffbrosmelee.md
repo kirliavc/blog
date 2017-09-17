@@ -3,6 +3,92 @@ Super Staff Bros. MELEE
 
 Roster
 ------------------------------------------------------------------------
+## 国服新增精灵配置
+
+EroyalBoy (Salamence) @ Salamencite [√]
+Ability: Multiscale
+Evs: 44 HP / 252 Atk / 212 Spe
+Adament Nature
+- 换挡
+- 神速
+- 击掌奇袭
+- Jolin Boomburst 普通系爆音波，回血3/4
+
+FSK (Arceus-Steel) @ Safety Googles [√]
+Ability: Parental Bond
+Evs: 44 HP / 252 Atk / 212 Spe
+Adament Nature
+- 自然之怒
+- 挑拨
+- 回复指令
+- Ultimate Judgement 地球投，钢系
+
+SCEAM (Yveltal) @ Life Orb [√]
+Ability: Dark Aura
+Evs: 168 HP / 152 SpA / 188 Spe
+Modest Nature
+- 热风
+- 恶之波动
+- 死亡之翼
+- Dark Wind 先制度+1，使用挑拨，顺风，阴谋
+
+ceca3 (Kirlia) @ Power Herb [√]
+Ability: Re:start 上场时全能力+1，每回合结束时回满血
+Evs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- 大地控制
+- 神秘之剑
+- 援助力量
+- Initial Song 妖精系特攻，先制度+1，60威力
+
+
+暗黑员 (Giratina) @ Choice Scarf  
+Ability: Shadow Tag    
+Bold Nature  
+IVs: 0 Atk  
+- Trick  
+- Spite  
+- Heal Order  
+- King's Shield  
+
+MS (Beedrill-Mega) @ Assault Vest  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature 
+- Innovative Turn  使用UT的同时使用spectral thief   动画和UT一样
+- Gunk Shot  
+- Megahorn  
+- Drill Run  
+
+Blissey @ Toxic Orb
+Ability: Smilence [再生力+毒疗+自然回复]
+Evs: 252 Def / 252 SpD
+Bold Nature
+- 地球投
+- 剧毒
+- Strength Sap
+- 保护
+
+晋文公 (Mega Pidgeot) (M) @ Dread Plate / Silk Scarf[√]
+Ability: Mold Breaker
+EVs: 252 SAtk / 4 Spd / 252 Spe
+Timid Nature
+- Boomburst
+- Quiver Dance
+- Slack Off
+- The Crow Sea 
+恶，特殊，100/100/16，无视对方防守和回避能力升降，并以物防计算伤害，动画采用核心惩罚者
+
+Vincent (Archen) @ Life Orb  
+Ability: Adaptability  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Ascent  
+- Thousand Arrows  
+- Shell Smash  
+- Vincent Shield  
+同时使用王盾+龙舞，PP和动画和王盾一样【王盾有bug】
+
 
 ### Acast
 Gourgeist-Super @ Mental Herb
