@@ -92,7 +92,7 @@ Evs: 252 Def / 252 SpD
 
 Bold Nature
 
-- 地球投
+- Ultimate Judgment 地球投，钢系
 - 剧毒
 - Strength Sap
 - 保护
