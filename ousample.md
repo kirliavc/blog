@@ -227,9 +227,13 @@ IVs: 28 Spd
 潮湿岩石的大嘴鸥，让雨天延长到8回合，同时拉了耐久保证生存。
 
 Tapu Koko (卡璞・鸣鸣) @ 仙Z纯晶
+
 Ability: 电气制造者
+
 EVs: 4 Def / 252 SAtk / 252 Spd
+
 IVs: 0 Atk
+
 胆小 Nature (+Spd, -Atk)
 - 魔法闪光
 - 闪电交替
@@ -237,8 +241,11 @@ IVs: 0 Atk
 - 自然之怒
 
 Hawlucha (角斗鹰) (M) @ 电气种子
+
 Ability: 轻身
+
 EVs: 156 HP / 224 Atk / 4 Def / 124 Spd
+
 固执 Nature (+Atk, -SAtk)
 - 吸取拳
 - 剑之舞
@@ -248,8 +255,11 @@ EVs: 156 HP / 224 Atk / 4 Def / 124 Spd
 电场鸣鸣和电气种子角斗鹰组成了一个很有趣的组合，角斗鹰可以利用电场触发电气种子增加物防，同时触发轻身特性让自己速度翻倍，超越OU几乎所有精灵的速度。剑舞强化配合大威力双本，使电场角斗鹰有很强的推队能力。
 
 Swampert-Mega (Mega巨沼怪) (M) @ M巨沼怪石
+
 Ability: 轻快
+
 EVs: 252 Atk / 4 Def / 252 Spd
+
 固执 Nature (+Atk, -SAtk)
 - 水之尾
 - 秘密岩石
@@ -260,9 +270,13 @@ EVs: 252 Atk / 4 Def / 252 Spd
 
 
 Kingdra (刺龙王) (M) @ 专爱眼镜
+
 Ability: 轻快
+
 EVs: 4 Def / 252 SAtk / 252 Spd
+
 IVs: 0 Atk
+
 保守 Nature (+SAtk, -Atk)
 - 水压
 - 冲浪
@@ -272,9 +286,13 @@ IVs: 0 Atk
 常规的轻快刺龙王，不做赘述。
 
 Ferrothorn (坚果哑铃) (M) @ 抗格果
+
 Ability: 铁棘
+
 EVs: 252 HP / 120 Def / 136 SDef
+
 IVs: 0 Spd
+
 悠闲 Nature (+Def, -Spd)
 - 螺旋球
 - 强力鞭挞
