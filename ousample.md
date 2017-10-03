@@ -202,3 +202,164 @@ EVs: 224 HP / 252 Atk / 32 Spd
 大嘴速度过减速受辉夜，大量HP保证墙下强吃本系克制技能，力度大。
 
 海豚认为，本队使用起来还是相对简单的，但各精灵强化时机和什么时候能sweep的时机还是要把握好。
+
+
+## #3 基佬雨队
+
+作者：NJNP 来源：SMOGON
+
+Pelipper (大嘴鸥) (M) @ 潮湿岩石
+
+Ability: 降雨
+
+EVs: 248 HP / 32 Def / 228 SDef
+
+IVs: 28 Spd
+
+大胆 Nature (+Def, -Atk)
+- 除雾
+- 羽栖
+- 沸水
+- 蜻蜓回转
+
+潮湿岩石的大嘴鸥，让雨天延长到8回合，同时拉了耐久保证生存。
+
+Tapu Koko (卡璞・鸣鸣) @ 仙Z纯晶
+Ability: 电气制造者
+EVs: 4 Def / 252 SAtk / 252 Spd
+IVs: 0 Atk
+胆小 Nature (+Spd, -Atk)
+- 魔法闪光
+- 闪电交替
+- 雷电
+- 自然之怒
+
+Hawlucha (角斗鹰) (M) @ 电气种子
+Ability: 轻身
+EVs: 156 HP / 224 Atk / 4 Def / 124 Spd
+固执 Nature (+Atk, -SAtk)
+- 吸取拳
+- 剑之舞
+- 飞膝踢
+- 杂耍
+
+电场鸣鸣和电气种子角斗鹰组成了一个很有趣的组合，角斗鹰可以利用电场触发电气种子增加物防，同时触发轻身特性让自己速度翻倍，超越OU几乎所有精灵的速度。剑舞强化配合大威力双本，使电场角斗鹰有很强的推队能力。
+
+Swampert-Mega (Mega巨沼怪) (M) @ M巨沼怪石
+Ability: 轻快
+EVs: 252 Atk / 4 Def / 252 Spd
+固执 Nature (+Atk, -SAtk)
+- 水之尾
+- 秘密岩石
+- 地震
+- 冷冻拳
+
+常规的雨天巨沼怪，兼任出钉的任务。
+
+
+Kingdra (刺龙王) (M) @ 专爱眼镜
+Ability: 轻快
+EVs: 4 Def / 252 SAtk / 252 Spd
+IVs: 0 Atk
+保守 Nature (+SAtk, -Atk)
+- 水压
+- 冲浪
+- 剧毒
+- 龙星群
+
+常规的轻快刺龙王，不做赘述。
+
+Ferrothorn (坚果哑铃) (M) @ 抗格果
+Ability: 铁棘
+EVs: 252 HP / 120 Def / 136 SDef
+IVs: 0 Spd
+悠闲 Nature (+Def, -Spd)
+- 螺旋球
+- 强力鞭挞
+- 打落
+- 撒菱
+
+抗格果的草钢，可以吃下各种气合弹、兔子的飞膝踢等，没有保护所以不太好用种子吸血持续站场，基本是一个中转用的精灵
+
+## #4 3钉子受队 
+作者：ABR 来源：SMOGON
+
+队伍导出：http://pokepast.es/8d9f0027fef59188
+
+Sableye-Mega (Mega勾魂眼) (M) @ M勾魂眼石
+
+Ability: 恶作剧之心
+
+EVs: 248 HP / 252 SDef / 8 Spd
+
+慎重 Nature (+SDef, -SAtk)
+
+- 保护
+- 打落
+- 鬼火
+- 自我再生
+
+Ferrothorn (坚果哑铃) (M) @ 剩饭
+
+Ability: 铁棘
+
+EVs: 248 HP / 8 Def / 252 SDef
+
+慎重 Nature (+SDef, -SAtk)
+- 寄生种子
+- 秘密岩石
+- 撒菱
+- 强力鞭挞
+
+Weavile (玛狃拉) (M) @ 专爱头巾
+
+Ability: 压力
+
+EVs: 252 Atk / 4 SDef / 252 Spd
+
+开朗 Nature (+Spd, -SAtk)
+- 冰之砾
+- 打落
+- 冰柱坠落
+- 追击
+
+Landorus-Therian (土地云-灵兽) (M) @ 剩饭
+
+Ability: 威吓
+
+EVs: 248 HP / 240 Def / 20 Spd
+
+悠闲 Nature (+Def, -Spd)
+- 保护
+- 地震
+- 觉醒力量 [冰]
+- 蜻蜓回转
+
+Toxapex (超坏星) (M) @ 绚丽外壳
+
+Ability: 再生力
+
+EVs: 248 HP / 8 Def / 252 SDef
+
+IVs: 0 Atk
+
+沉着 Nature (+SDef, -Atk)
+- 毒菱
+- 沸水
+- 黑雾
+- 自我再生
+
+Celesteela (铁火辉夜) @ 剩饭
+
+Ability: 异兽提升
+
+EVs: 248 HP / 200 Def / 60 SAtk
+
+悠闲 Nature (+Def, -Spd)
+
+- 寄生种子
+- 保护
+- 重量炸弹
+- 大字火
+
+队伍解析(By ABR):这个队的核心思想是撒钉，对于撒地钉而言，草钢要比忍者蛙更加可靠。草钢可以对付强化玛姬、智蛙、鸣鸣，从而获得撒钉子的机会。同时勾魂眼让草钢遇到撒钉同类时更有优势。面对大甲、哞哞、土猫、蝶蝶、风T、钢兵等精灵，采取物耐辉夜进行应对。大火可以在钉子下2HKO很多精灵。保护剩饭受土猫可以挡z蛇、大嘴娃、对方的攻土猫。头巾玛狃拉可以追死很多精灵，从而减少我方的联防压力。
