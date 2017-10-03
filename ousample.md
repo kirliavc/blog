@@ -1,12 +1,16 @@
 # [SM OU]　日月单打6v6 Overused分级 标准队伍介绍
 
-大家好，这里是Pokemon Showdown国服Leader圣光。Pokemon Showdown国服已经开设一段时间了。不知道有多少朋友已经来到PS国服，体验网上平台对战的乐趣了呢？
+大家好，我是Pokemon Showdown国服Leader圣光。Pokemon Showdown国服已经开放一段时间了。不知道有多少朋友已经来到PS国服，体验网上平台对战的乐趣了呢？
 
 如果你还不了解Pokemon Showdown对战平台，请移步这个帖子 https://tieba.baidu.com/p/5335680171 ，这里PS国服主办者Eroyalboy为大家详细介绍了PS的基础知识和玩法。
 
-今天我给大家带来的是PS最热门的单打分级--Overused(OU)分级的标准队伍。如果你想入门66对战，在Pokemon Showdown快速上手，或者想要尝试一些新的战术却苦于组不出队伍，那么相信本帖发布的队伍会对你有帮助！
+近期很多人反映，PS的环境对新手并不友好，刚刚接触对战的新人很可能会被PS上各个战队的大佬们虐得晕头转向，不知该从何下手。
+
+今天我给大家带来的是PS最热门的单打分级--Overused(OU)分级的标准队伍。这里发布的都是OU优秀玩家开发、经过大量实战检验的队伍。如果你想入门66对战，在Pokemon Showdown快速上手，或者想要尝试一些新的战术却苦于组不出队伍，那么相信本帖发布的队伍会对你有帮助！
 
 为了方便新手，本帖发布的队伍都将使用中文描述，但同时会给出英文PS格式的导出链接，大家想要在PS中使用的话，直接在导出链接中全选复制，在PS的队伍编辑器里粘贴即可。
+
+值得注意的是，这里的队伍配置都是公开的，这意味着你的对手也知道这些精灵的配置。本来队伍的亮点配置可能已经成为众人皆知的配置了。当然，抄队不是游戏的全部，希望大家能从这些标准队伍中获得启发，最终组出有自己风格的优秀队伍！
 
 闲话少说，下面开始标准队伍的介绍！
 
@@ -302,6 +306,7 @@ IVs: 0 Spd
 抗格果的草钢，可以吃下各种气合弹、兔子的飞膝踢等，没有保护所以不太好用种子吸血持续站场，基本是一个中转用的精灵
 
 ## #4 三钉子半受队 
+
 作者：ABR 来源：SMOGON
 
 队伍导出：http://pokepast.es/8d9f0027fef59188
@@ -485,3 +490,267 @@ IVs: 0 Spd
 - 剑之舞
 
 剑舞的蟹钳锤几乎秒杀一切，不解释了，水喷的力度也很足
+
+## #6 草Z火钢攻队
+
+作者：未知 来源：SMOGON
+
+PS格式导出：http://pokepast.es/ec37756592470811
+
+Magearna (玛机雅娜) @ 突击背心
+
+Ability: 魂心
+
+EVs: 252 HP / 252 SAtk / 4 SDef
+
+IVs: 0 Atk
+
+保守 Nature (+SAtk, -Atk)
+- 闪电交替
+- 花朵加农炮
+- 光栅加农
+- 觉醒力量 [火]
+
+Landorus-Therian (土地云-灵兽) (M) @ 坚硬头盔
+
+Shiny: Yes
+
+Ability: 威吓
+
+EVs: 252 HP / 232 Def / 24 Spd
+
+淘气 Nature (+Def, -SAtk)
+
+- 秘密岩石
+- 蜻蜓回转
+- 地震
+- 觉醒力量 [冰]
+
+Greninja (忍者蛙) (M) @ 专爱眼镜
+
+Ability: 激流
+
+EVs: 4 HP / 252 SAtk / 252 Spd
+
+胆小 Nature (+Spd, -Atk)
+
+- 水之手里剑
+- 恶之波动
+- 冷冻光线
+- 水压
+
+Heatran (席多蓝恩) (M) @ 草Z纯晶
+
+Ability: 引火
+
+EVs: 4 HP / 252 SAtk / 252 Spd
+
+IVs: 0 Atk
+
+胆小 Nature (+Spd, -Atk)
+- 太阳光线
+- 挑拨
+- 大地之力
+- 熔岩风暴
+
+Latios (拉帝欧斯) (M) @ 生命玉
+
+Shiny: Yes
+
+Ability: 浮游
+
+EVs: 4 HP / 252 SAtk / 252 Spd
+
+IVs: 0 Atk
+
+胆小 Nature (+Spd, -Atk)
+- 羽栖
+- 十万伏特
+- 精神冲击
+- 龙星群
+
+Lopunny-Mega (Mega长耳兔) (M) @ M长耳兔石
+
+Ability: 柔软
+
+EVs: 252 Atk / 4 Def / 252 Spd
+
+开朗 Nature (+Spd, -SAtk)
+
+- 下马威
+- 报恩
+- 冷冻拳
+- 飞膝踢
+
+## #7 冰z黑冰攻队
+
+作者：未知 来源：未知
+
+PS格式导出：http://pokepast.es/7739c182728eccd6
+
+Scizor-Mega (Mega巨钳螳螂) (M) @ M巨钳螳螂石
+
+Ability: 轻金属
+
+EVs: 248 HP / 20 Atk / 184 Def / 56 SDef
+
+淘气 Nature (+Def, -SAtk)
+
+- 蜻蜓回转
+- 子弹拳
+- 羽栖
+- 剑之舞
+
+Heatran (席多蓝恩) (M) @ 剩饭
+
+Ability: 引火
+
+EVs: 248 HP / 8 SDef / 252 Spd
+
+IVs: 0 Atk
+
+胆小 Nature (+Spd, -Atk)
+- 熔岩风暴
+- 大地之力
+- 秘密岩石
+- 挑拨
+
+Landorus-Therian (土地云-灵兽) (M) @ 专爱围巾
+
+Ability: 威吓
+
+EVs: 252 Atk / 6 SDef / 252 Spd
+
+开朗 Nature (+Spd, -SAtk)
+
+- 地震
+- 大爆炸
+- 蜻蜓回转
+- 打落
+
+Tapu Fini (卡璞・鳍鳍) @ 剩饭
+
+Ability: 薄雾制造者
+
+EVs: 248 HP / 196 Def / 64 Spd
+
+IVs: 0 Atk
+
+大胆 Nature (+Def, -Atk)
+- 月爆
+- 挑拨
+- 除雾
+- 自然之怒
+
+Kyurem-Black (黑色酋雷姆) @ 冰Z纯晶
+
+Ability: 垓级电压
+
+EVs: 252 Atk / 4 SAtk / 252 Spd
+
+天真 Nature (+Spd, -SDef)
+- 冰结电击
+- 交织闪电
+- 冷冻光线
+- 大地之力
+
+Weavile (玛狃拉) (M) @ 专爱头巾
+
+Ability: 压力
+
+EVs: 252 Atk / 4 Def / 252 Spd
+
+开朗 Nature (+Spd, -SAtk)
+
+- 冰之砾
+- 冰柱坠落
+- 打落
+- 追击
+
+## #8 Mega妹妹平衡队
+
+作者：Liones 来源：SMOGON
+
+PS格式导出：http://pokepast.es/5d3e7c37a87e939c
+
+Gliscor (天蝎王) (M) @ 剧毒珠
+
+Ability: 毒疗
+
+EVs: 244 HP / 160 SDef / 104 Spd
+
+慎重 Nature (+SDef, -SAtk)
+- 剑之舞
+- 地震
+- 挑拨
+- 打落
+
+Latias-Mega (Mega拉帝亚斯) (F) @ M拉提亚斯石
+
+Ability: 浮游
+
+EVs: 248 HP / 8 SAtk / 252 Spd
+
+IVs: 0 Atk
+
+胆小 Nature (+Spd, -Atk)
+- 觉醒力量 [火]
+- 羽栖
+- 冷冻光线
+- 十万伏特
+
+Toxapex (超坏星) (M) @ 绚丽外壳
+
+Ability: 再生力
+
+EVs: 252 HP / 60 Def / 196 SDef
+
+IVs: 0 Atk
+
+沉着 Nature (+SDef, -Atk)
+
+- 沸水
+- 黑雾
+- 自我再生
+- 毒菱
+
+Ferrothorn (坚果哑铃) (M) @ 剩饭
+
+Ability: 铁棘
+
+EVs: 252 HP / 88 Def / 168 SDef
+
+淘气 Nature (+Def, -SAtk)
+
+- 撒菱
+- 寄生种子
+- 强力鞭挞
+- 打落
+
+Tapu Koko (卡璞・鸣鸣) @ 仙Z纯晶
+
+Ability: 电气制造者
+
+EVs: 4 Def / 252 SAtk / 252 Spd
+
+IVs: 0 Atk
+
+胆小 Nature (+Spd, -Atk)
+- 冥想
+- 十万伏特
+- 魔法闪光
+- 羽栖
+
+Clefable (皮可西) (M) @ 剩饭
+
+Ability: 魔法守护
+
+EVs: 252 HP / 252 Def / 4 SDef
+
+IVs: 0 Atk
+
+大胆 Nature (+Def, -Atk)
+- 秘密岩石
+- 剧毒
+- 生蛋
+- 月爆
