@@ -20,6 +20,13 @@
 
 PS格式导出：http://pokepast.es/3d4e0d53b75ac6c4
 
+![](http://play.pokemonshowdown.com/sprites/xyani/keldeo.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/heatran.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tangrowth.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/mawile-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/zapdos.gif)
+
 Keldeo-Resolute (凯路迪欧-觉悟) @ 专爱围巾
 
 Ability: 正义之心
@@ -114,6 +121,13 @@ IVs: 0 Atk
 作者：海豚 队伍来源：https://tieba.baidu.com/p/5347905139
 
 PS格式导出：http://pokepast.es/fe16ab5c1d751f9f
+
+![](http://play.pokemonshowdown.com/sprites/xyani/ninetales-alola.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/zygarde.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/magearna.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/mawile-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tapufini.gif)
 
 Ninetales-Alola (阿罗拉 九尾) (M) @ 光之黏土
 
@@ -214,6 +228,14 @@ EVs: 224 HP / 252 Atk / 32 Spd
 
 队伍导出：http://pokepast.es/65cdfae0d3e0a039
 
+![](http://play.pokemonshowdown.com/sprites/xyani/pelipper.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/swampert-mega.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/tapukoko.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/ferrothorn.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/hawlucha.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/kingdra.gif)
+
+
 Pelipper (大嘴鸥) (M) @ 潮湿岩石
 
 Ability: 降雨
@@ -311,6 +333,13 @@ IVs: 0 Spd
 
 队伍导出：http://pokepast.es/8d9f0027fef59188
 
+![](http://play.pokemonshowdown.com/sprites/xyani/sableye-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/ferrothorn.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/Celesteela.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/toxapex.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/weavile.gif)
+
 Sableye-Mega (Mega勾魂眼) (M) @ M勾魂眼石
 
 Ability: 恶作剧之心
@@ -394,6 +423,13 @@ EVs: 248 HP / 200 Def / 60 SAtk
 作者：imsosorrylol 来源：SMOGON
 
 PS格式导出： http://pokepast.es/48da695d24f870cb
+
+![](http://play.pokemonshowdown.com/sprites/xyani/uxie.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/marowak-alola.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/mawile-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/magearna.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/cresselia.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/crawdaunt.gif)
 
 Uxie (由克希) @ 精神药草
 
@@ -497,6 +533,13 @@ IVs: 0 Spd
 
 PS格式导出：http://pokepast.es/ec37756592470811
 
+![](http://play.pokemonshowdown.com/sprites/xyani/heatran.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/lopunny-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/greninja.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/latios.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/magearna.gif)
+
 Magearna (玛机雅娜) @ 突击背心
 
 Ability: 魂心
@@ -588,6 +631,13 @@ EVs: 252 Atk / 4 Def / 252 Spd
 
 PS格式导出：http://pokepast.es/7739c182728eccd6
 
+![](http://play.pokemonshowdown.com/sprites/xyani/heatran.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/scizor-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/kyurem-black.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/weavile.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tapufini.gif)
+
 Scizor-Mega (Mega巨钳螳螂) (M) @ M巨钳螳螂石
 
 Ability: 轻金属
@@ -672,6 +722,13 @@ EVs: 252 Atk / 4 Def / 252 Spd
 作者：Liones 来源：SMOGON
 
 PS格式导出：http://pokepast.es/5d3e7c37a87e939c
+
+![](http://play.pokemonshowdown.com/sprites/xyani/gliscor.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/clefable.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/latias-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/toxapex.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/ferrothorn.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tapukoko.gif)
 
 Gliscor (天蝎王) (M) @ 剧毒珠
 
