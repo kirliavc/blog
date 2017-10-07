@@ -335,7 +335,7 @@ IVs: 0 Spd
 
 ![](http://play.pokemonshowdown.com/sprites/xyani/sableye-mega.gif)
 ![](http://play.pokemonshowdown.com/sprites/xyani/ferrothorn.gif)
-![](https://play.pokemonshowdown.com/sprites/xyani/Celesteela.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/celesteela.gif)
 ![](http://play.pokemonshowdown.com/sprites/xyani/toxapex.gif)
 ![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
 ![](http://play.pokemonshowdown.com/sprites/xyani/weavile.gif)
