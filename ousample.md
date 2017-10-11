@@ -30,7 +30,7 @@
 
 [#8-Mega妹妹平衡队](https://github.com/kirliavc/blog/blob/master/ousample.md#8-mega妹妹平衡队)
 
-[其余队伍]((https://github.com/kirliavc/blog/blob/master/ousample.md#10-Excadrill-Hyper-Offense-by-Gondra)
+[其余队伍](https://github.com/kirliavc/blog/blob/master/ousample.md#9-tapu-koko--kyurem-black-bulky-offense-by-finchinator)
 
 ## #1 冷无缺平衡队 
 
