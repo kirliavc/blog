@@ -12,7 +12,25 @@
 
 值得注意的是，这里的队伍配置都是公开的，这意味着你的对手也知道这些精灵的配置。本来队伍的亮点配置可能已经成为众人皆知的配置了。当然，抄队不是游戏的全部，希望大家能从这些标准队伍中获得启发，最终组出有自己风格的优秀队伍！
 
-闲话少说，下面开始标准队伍的介绍！
+目录
+
+[#1-冷无缺平衡队](https://github.com/kirliavc/blog/blob/master/ousample.md#1-冷无缺平衡队)
+
+[#2-极光幕强化队](https://github.com/kirliavc/blog/blob/master/ousample.md#2-逼王归来-极光幕强化队)
+
+[#3-基佬雨队](https://github.com/kirliavc/blog/blob/master/ousample.md#3-基佬雨队)
+
+[#4-三钉子半受队](https://github.com/kirliavc/blog/blob/master/ousample.md#4-三钉子半受队)
+
+[#5-欺骗空间队](https://github.com/kirliavc/blog/blob/master/ousample.md#5-欺骗空间队)
+
+[#6-草z火钢攻队](https://github.com/kirliavc/blog/blob/master/ousample.md#6-草z火钢攻队)
+
+[#7-冰z黑冰攻队](https://github.com/kirliavc/blog/blob/master/ousample.md#7-冰z黑冰攻队)
+
+[#8-Mega妹妹平衡队](https://github.com/kirliavc/blog/blob/master/ousample.md#8-mega妹妹平衡队)
+
+[其余队伍]((https://github.com/kirliavc/blog/blob/master/ousample.md#10-Excadrill-Hyper-Offense-by-Gondra)
 
 ## #1 冷无缺平衡队 
 
@@ -811,3 +829,113 @@ IVs: 0 Atk
 - 剧毒
 - 生蛋
 - 月爆
+
+## #9 Tapu Koko + Kyurem-Black Bulky Offense by Finchinator
+
+![](http://play.pokemonshowdown.com/sprites/xyani/tapukoko.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/kyurem-black.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/latios.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/venusaur-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/magearna.gif)
+
+http://pokepast.es/b8d7e0363b79ad28
+
+## #10 Excadrill Hyper Offense by Gondra
+
+![](http://play.pokemonshowdown.com/sprites/xyani/excadrill.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tapulele.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/victini.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/kartana.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/gyarados-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/mimikyu.gif)
+
+http://pokepast.es/98f28ff6154f91fc
+
+## #11 SD Kartana Offense by Finchinator
+
+![](http://play.pokemonshowdown.com/sprites/xyani/lopunny-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/magearna.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/greninja.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/kartana.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/latios.gif)
+
+http://pokepast.es/4217e5ed023b48ed
+
+## #12 Zard X +sandrush by bengay
+
+![](http://play.pokemonshowdown.com/sprites/xyani/excadrill.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tyranitar.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/charizard-megax.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/ferrothorn.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tornadus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/alomomola.gif)
+
+http://pokepast.es/b69240a4379ef380
+
+## #13 Zapdos Rain Offense by TDK
+
+![](http://play.pokemonshowdown.com/sprites/xyani/zapdos.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/pelipper.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/latios.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/ferrothorn.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/swampert-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/greninja-ash.gif)
+
+http://pokepast.es/254c7ff8539a928e
+
+## #14 
+
+![](http://play.pokemonshowdown.com/sprites/xyani/mawile-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/serperior.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/mantine.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/heatran.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tapulele.gif)
+
+http://pokepast.es/3f6e6c253c02f4a5
+
+## #15
+
+![](http://play.pokemonshowdown.com/sprites/xyani/alakazam-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/gengar.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/tyranitar.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/ferrotorn.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tapulele.gif)
+
+http://pokepast.es/651ca8b1398e73e7
+
+## #16 Celesteela Bulky-Offense by Eo Ut Mortus
+
+![](http://play.pokemonshowdown.com/sprites/xyani/venusaur-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/celesteela.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/greninja.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/magearna.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/latios.gif)
+
+http://pokepast.es/07e6e5b260713d23
+
+## #17 
+
+![](http://play.pokemonshowdown.com/sprites/xyani/mawile-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/mew.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/greninja.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tangrowth.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/garchomp.gif)
+
+http://pokepast.es/7fb76918b66d28e2
+
+## #18 Tana/Gyara BO by UltraBallz
+
+![](http://play.pokemonshowdown.com/sprites/xyani/gyarados-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/kartana.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/tapulele.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/magearna.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/toxapex.gif)
+
+http://pokepast.es/be17acb39cf21031
