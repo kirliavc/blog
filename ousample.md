@@ -939,3 +939,25 @@ http://pokepast.es/7fb76918b66d28e2
 ![](http://play.pokemonshowdown.com/sprites/xyani/toxapex.gif)
 
 http://pokepast.es/be17acb39cf21031
+
+
+## #19 Diancie + Steelium Z Excadrill Sand
+![](http://play.pokemonshowdown.com/sprites/xyani/diancie-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tyranitar.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/excadrill.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/quagsire.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/celesteela.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/toxapex.gif)
+
+http://pokepast.es/ce35748de5f6ae8b
+
+## #20 
+
+![](http://play.pokemonshowdown.com/sprites/xyani/venusaur-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/greninja-ash.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/latios.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/clefable.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/celesteela.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/heatran.gif)
+
+http://pokepast.es/0eafdfaef8ee434f
