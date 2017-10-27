@@ -41,7 +41,17 @@ BO1单淘汰赛，需要SMOGON论坛英文约战，PS官服GSC OU对战
 
 也会根据报名人数对进入3轮以后的选手给予国服Lobby和Old Gen房间的权限奖励
 
-附送 GSC OU无神兽样例队
+## GEN7 OU 特殊规则赛
+http://www.smogon.com/forums/threads/ban-that-pokemon-signups.3619028/ 
+
+
+G7OU BO1 单淘汰比赛，每一轮会统一ban掉一只OU里面的精灵，双方均不可以使用。 比赛在PS官服进行，在SMOGON论坛英文约战。
+
+### 奖励：
+如果累计参赛人数达到64人以上，则进入决赛将获得国服头像；
+少于64人时报名时冠军获得国服头像。
+
+### 附送 GSC OU无神兽样例队
 
 -------[gen2 ou] Giara --------
 
