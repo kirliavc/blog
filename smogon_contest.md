@@ -52,7 +52,7 @@ G7OU BO1 单淘汰比赛，每一轮会统一ban掉一只OU里面的精灵，双
 少于64人时报名时冠军获得国服头像。
 
 ### 附送 GSC OU无神兽样例队
-
+```
 -------[gen2 ou] Giara --------
 
 Nidoking @ Leftovers  
@@ -172,5 +172,5 @@ Scizor @ Lum Berry
 - Swords Dance
 - Agility
 - Baton Pass
-
+```
 
