@@ -13,7 +13,7 @@
 值得注意的是，这里的队伍配置都是公开的，这意味着你的对手也知道这些精灵的配置。本来队伍的亮点配置可能已经成为众人皆知的配置了。当然，抄队不是游戏的全部，希望大家能从这些标准队伍中获得启发，最终组出有自己风格的优秀队伍！
 
 目录
-[USUM队伍更新]()
+[USUM队伍更新](https://github.com/kirliavc/blog/blob/master/ousample.md#usum%E6%9B%B4%E6%96%B0%E9%98%9F%E4%BC%8D)
 
 [#1-冷无缺平衡队](https://github.com/kirliavc/blog/blob/master/ousample.md#1-冷无缺平衡队)
 
@@ -985,6 +985,7 @@ http://pokepast.es/6ab8a30b19c3088b
 ![](http://play.pokemonshowdown.com/sprites/xyani/tapulele.gif)
 ![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
 ![](http://play.pokemonshowdown.com/sprites/xyani/heatran.gif)
+
 http://pokepast.es/965c7269c5ba7720
 
 队伍介绍：http://www.smogon.com/forums/threads/im-like-a-bird.3623365/
