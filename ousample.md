@@ -13,6 +13,7 @@
 值得注意的是，这里的队伍配置都是公开的，这意味着你的对手也知道这些精灵的配置。本来队伍的亮点配置可能已经成为众人皆知的配置了。当然，抄队不是游戏的全部，希望大家能从这些标准队伍中获得启发，最终组出有自己风格的优秀队伍！
 
 目录
+[USUM队伍更新]()
 
 [#1-冷无缺平衡队](https://github.com/kirliavc/blog/blob/master/ousample.md#1-冷无缺平衡队)
 
@@ -961,3 +962,37 @@ http://pokepast.es/ce35748de5f6ae8b
 ![](http://play.pokemonshowdown.com/sprites/xyani/heatran.gif)
 
 http://pokepast.es/0eafdfaef8ee434f
+
+### USUM更新队伍
+## #21 Psyspam Offense 
+
+![](http://play.pokemonshowdown.com/sprites/xyani/alakazam-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/greninja-ash.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/tapulele.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/kartana.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/magearna.gif)
+
+http://pokepast.es/6ab8a30b19c3088b
+
+队伍介绍：http://www.smogon.com/forums/threads/usum-psyspam-offense-peaked-1-by-btb-ayevon-2100-elo.3623157/
+
+## #22 I'M LIKE A BIRD
+
+![](http://play.pokemonshowdown.com/sprites/xyani/mawile-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/greninja-ash.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/tangrowth.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tapulele.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/heatran.gif)
+http://pokepast.es/965c7269c5ba7720
+
+队伍介绍：http://www.smogon.com/forums/threads/im-like-a-bird.3623365/
+
+## #23 阿罗拉墙+鲤鱼攻队 by 嘟嘟
+
+https://tieba.baidu.com/p/5484426417
+
+## #24 常规平衡攻 by 圣光
+
+https://tieba.baidu.com/p/5475625325
