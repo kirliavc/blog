@@ -16,19 +16,18 @@
 
 汉化只支持【电脑端Chrome、Firefox、Safari】、【安卓手机Firefox】。其余浏览器均不支持。
 
+### 电脑端汉化安装
 
-2.1 如果你使用电脑端**Firefox**或**Safari**，请访问Tampermonkey官方网站： http://tampermonkey.net/ ，点击安装即可，如下图所示
+ 2 如果你使用电脑端**Firefox**或**Safari**，请访问Tampermonkey官方网站： http://tampermonkey.net/ ，点击安装即可，如下图所示
 ![](https://i.imgur.com/c9u0k1d.png)
 
-2.2 如果你使用**电脑端Chrome**浏览器，请在Chrome浏览器中下载此文件：
+ 3 如果你使用**电脑端Chrome**浏览器，请在Chrome浏览器中下载此文件：
 
 http://t.cn/RjjrePI 
 
 之后在chrome中安装即可。
 
-2.3 如果你使用**安卓端Firefox**浏览器，请在安卓FIREFOX浏览器的“附加组件”中搜索"ViolentMonkey"，点击开关进行安装。
-
-3 请在你**使用汉化脚本的浏览器**中（不要用QQ、百度贴吧客户端、其他浏览器打开）点击这个链接：
+ 4 请在你**使用汉化脚本的浏览器**中（不要用QQ、百度贴吧客户端、其他浏览器打开）点击这个链接：
 
 http://t.cn/RjjmOvC
 
@@ -38,7 +37,18 @@ Tampermonkey将会自动检测到脚本并弹出如下图页面
 
 点击“更新”或“安装”即可完成。
 
-对于手机Firefox用户，点击该链接后同样会进进入“安装脚本-暴力猴”页面，点击页面右上角的“确认安装”即可，如下图所示。
+### 安卓手机浏览器汉化安装
+
+ 5 如果你使用**安卓端Firefox**浏览器，请在安卓FIREFOX浏览器的“附加组件”中搜索"ViolentMonkey"，点击开关进行安装。
+ ![](https://i.imgur.com/i3BI5OX.jpg)
+ ![](https://i.imgur.com/NH0i5jT.jpg)
+ ![](https://i.imgur.com/xXdTWR0.jpg)
+ ![](https://i.imgur.com/8uAvt8L.jpg)
+
+
+安装ViolentMonkey之后，请在浏览器中打开此链接：http://t.cn/RjjmOvC 【**不要用百度搜索，直接前往即可**】
+
+会进入“安装脚本-暴力猴”页面，点击页面右上角的“确认安装”即可，如下图所示。
 
 ![](https://i.imgur.com/NghAcmG.jpg)
 
@@ -52,4 +62,4 @@ PS提供非官方的安卓端APP，目前实现了组队、对战的基本功能
 
 对PSapp的开发和完善有任何建议，请在[EB的反馈贴](https://tieba.baidu.com/p/5460904952)中留言。
 
-如果你有安卓开发的经验，想要参与PSapp的优化，请在PS国服群中联系圣光、EB或FSK
+如果你有安卓开发的经验，想要参与PSapp的优化，请在PS国服群中联系圣光或EB
