@@ -1,4 +1,4 @@
-## PS国服汉化教程 (USUM更新) & PS安卓APP 
+## Pokemon Showdown汉化教程 (现已支持PS官服) & PS安卓APP 
 
 ### PS官服网址 https://play.pokemonshowdown.com 
 
