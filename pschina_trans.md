@@ -54,9 +54,9 @@ Tampermonkey将会自动检测到脚本并弹出如下图页面
 
 ### 关于PSapp
 
-PS提供非官方的安卓端APP，目前实现了组队、对战的基本功能，更多功能及汉化的开发依然在规划中。
+PS提供非官方的安卓端APP，目前实现了组队、对战的基本功能，目前汉化版已经发布。
 
-[PSapp下载地址](https://github.com/kirliavc/blog/raw/master/psapp.apk) 如果无法下载，也可以在PS国服交流群的群文件中下载
+[PSapp下载地址](https://github.com/kirliavc/PokemonShowdownAndroidClient/releases/download/v1.3.7.1-cn/pasapp.apk) 如果无法下载，也可以在PS国服交流群的群文件中下载
 
 关于PSapp的使用，可以看LD8编写的[使用教程](https://tieba.baidu.com/p/5461424484)
 
