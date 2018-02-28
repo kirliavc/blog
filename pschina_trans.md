@@ -58,7 +58,7 @@ PS提供非官方的安卓端APP，目前实现了组队、对战的基本功能
 
 [PSapp下载地址](https://github.com/kirliavc/PokemonShowdownAndroidClient/releases/download/v1.3.7.1-cn/pasapp.apk) 如果无法下载，也可以在PS国服交流群的群文件中下载
 
-关于PSapp的使用，可以看LD8编写的[使用教程](https://tieba.baidu.com/p/5461424484)
+关于PSapp的使用及常见问题，可以SCEAM编写的[使用教程](http://47.94.147.145/topic/4/)
 
 对PSapp的开发和完善有任何建议，请在[EB的反馈贴](https://tieba.baidu.com/p/5460904952)中留言。
 
