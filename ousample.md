@@ -986,4 +986,34 @@ https://tieba.baidu.com/p/5484426417
 
 ## #24 常规平衡攻 by 圣光
 
+
+![](http://play.pokemonshowdown.com/sprites/xyani/lopunny-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/kartana.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/zygarde.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tapulele.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/magearna.gif)
+
 https://tieba.baidu.com/p/5475625325
+
+## #25 再上一次2000分！本世代最强大嘴娃队伍 by qm
+
+![](http://play.pokemonshowdown.com/sprites/xyani/mawile-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/greninja.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/garchomp.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tapufini.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/zapdos.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/heatran.gif)
+
+https://zhuanlan.zhihu.com/p/34297735
+
+## #26 富贵险中求，大力出奇迹！阿三队！ by 高校
+
+![](http://play.pokemonshowdown.com/sprites/xyani/medicham-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/greninja-ash.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/kartana.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/magearna.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tapukoko.gif)
+
+https://tieba.baidu.com/p/5611577357
