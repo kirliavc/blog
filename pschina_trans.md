@@ -1,11 +1,18 @@
-## Pokemon Showdown汉化教程 (现已支持PS官服) & PS安卓APP 
+# Pokemon Showdown汉化教程 (支持PS官服与国服) & PS安卓APP 
 
 ### PS官服网址 https://play.pokemonshowdown.com 
 
 ### PS国服网址 http://china.psim.us/ 
+
 **PS国服交流群：451507969**
 
 **PS国服比赛群：106091896**
+
+
+# 目录
+## [汉化教程](#傻逼百度贴吧疯狂删帖)
+
+## [安卓APP](#ps安卓app)
 
 之前EB在贴吧发过一个PS国服汉化教程帖子，究极日月更新后汉化插件的更新方式改变，本来想在贴吧重新发一个，但由于
 
@@ -52,13 +59,13 @@ Tampermonkey将会自动检测到脚本并弹出如下图页面
 
 ![](https://i.imgur.com/NghAcmG.jpg)
 
-### 关于PSapp
+## PS安卓APP
 
 PS提供非官方的安卓端APP，目前实现了组队、对战的基本功能，目前汉化版已经发布。
 
-[PSapp下载地址](https://github.com/kirliavc/PokemonShowdownAndroidClient/releases/download/v1.3.7.1-cn/pasapp.apk) 如果无法下载，也可以在PS国服交流群的群文件中下载
+[PSapp下载地址](https://github.com/kirliavc/PokemonShowdownAndroidClient/releases/download/v1.3.7.1-cn/pasapp.apk) 如果无法下载，也可以在PS国服交流群的群文件中下载，或查看下方使用教程内的百度网盘链接
 
-关于PSapp的使用及常见问题，可以SCEAM编写的[使用教程](http://47.94.147.145/topic/4/)
+关于PSapp的使用及常见问题，可以参看SCEAM编写的[使用教程](http://47.94.147.145/topic/4/)
 
 对PSapp的开发和完善有任何建议，请在[EB的反馈贴](https://tieba.baidu.com/p/5460904952)中留言。
 
