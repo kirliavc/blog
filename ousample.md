@@ -1017,3 +1017,27 @@ https://zhuanlan.zhihu.com/p/34297735
 ![](http://play.pokemonshowdown.com/sprites/xyani/tapukoko.gif)
 
 https://tieba.baidu.com/p/5611577357
+
+
+## #27 节拍器蝶蝶+HealingWish by 萨菲
+
+![](http://play.pokemonshowdown.com/sprites/xyani/chansey.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/zapdos.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/kartana.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/tapulele.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/latias-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/scizor.gif)
+
+http://pokepast.es/87793bd4450a8074
+
+## #28 保姆鱼stall by TDK
+
+![](http://play.pokemonshowdown.com/sprites/xyani/chansey.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/zapdos.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/heatran.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/alomomola.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/gliscor.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/scizor-mega.gif)
+
+
+http://pokepast.es/67dd38292ee68581
