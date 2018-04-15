@@ -3,6 +3,7 @@
 
 
 目录
+
 [USUM队伍更新](https://github.com/kirliavc/blog/blob/master/ousample.md#usum%E6%9B%B4%E6%96%B0%E9%98%9F%E4%BC%8D)
 
 [#1-冷无缺平衡队](https://github.com/kirliavc/blog/blob/master/ousample.md#1-冷无缺平衡队)
@@ -1041,3 +1042,35 @@ http://pokepast.es/87793bd4450a8074
 
 
 http://pokepast.es/67dd38292ee68581
+
+## #29 皮+草钢+火钢平衡队
+
+![](http://play.pokemonshowdown.com/sprites/xyani/clefable.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/zapdos.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/heatran.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/ferrothorn.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/zygarde.gif)
+
+http://pokepast.es/92f0976058a661a4
+
+## #30 M超能斗士攻队
+![](http://play.pokemonshowdown.com/sprites/xyani/gallade-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/rotom-wash.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/magearna.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/hoopa-unbound.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/kartana.gif)
+
+http://pokepast.es/31b887c99957c0f6
+
+## #31 Mega妙蛙+弱点Z蛇平衡队
+
+![](http://play.pokemonshowdown.com/sprites/xyani/venusaur-mega.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/celesteela.gif)
+![](https://play.pokemonshowdown.com/sprites/xyani/clefable.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/greninja-ash.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/landorus-therian.gif)
+![](http://play.pokemonshowdown.com/sprites/xyani/zygarde.gif)
+
+http://pokepast.es/c5c415bc2609e005
