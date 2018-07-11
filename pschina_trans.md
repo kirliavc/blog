@@ -25,14 +25,27 @@
 
 ### 电脑端汉化安装
 
- 2 如果你使用电脑端**Firefox**或**Safari**，请访问Tampermonkey官方网站： http://tampermonkey.net/ ，点击安装即可，如下图所示
+ 2 请访问Tampermonkey官方网站： http://tampermonkey.net/ ，点击安装Tampermonkey，如下图所示
 ![](https://i.imgur.com/c9u0k1d.png)
 
- 3 如果你使用**电脑端Chrome**浏览器，请在Chrome浏览器中下载此文件：
+ 3 如果你使用**电脑端Chrome**浏览器，无法访问Chrome商店，可以通过开发者模式直接进行安装
 
-http://t.cn/RjjrePI 
+(1) 激活chrome的开发者模式，访问
+[chrome://extensions/](chrome://extensions/)
 
-之后在chrome中安装即可。
+![0_1531310918225_developer.PNG](http://chinapsim.org./assets/uploads/files/1531310915918-developer.png) 
+
+点击开关激活开发者模式，不同版本的开关可能不一样。
+
+(2) 接下来下载这个Tampermonkey压缩包并解压
+
+https://github.com/kirliavc/psscript/releases/download/0.0/tampermonkey.zip
+
+(3) 点击“加载已解压的扩展程序”
+
+![0_1531311459806_unzip.PNG](http://chinapsim.org./assets/uploads/files/1531311457505-unzip.png) 
+
+选择刚才解压的文件夹，同样可以完成Tampermonkey的安装。
 
  4 请在你**使用汉化脚本的浏览器**中（不要用QQ、百度贴吧客户端、其他浏览器打开）点击这个链接：
 
