@@ -1,6 +1,6 @@
 # Pokemon Showdown汉化教程 (支持PS官服与国服) & PS安卓APP 
 
-### NGA社区汉化教程（比较详细）
+### 请参考NGA社区发布的PS汉化教程（比较详细）
 
 https://bbs.nga.cn/read.php?tid=15085205
 
