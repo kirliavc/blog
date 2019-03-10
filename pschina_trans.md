@@ -1,5 +1,9 @@
 # Pokemon Showdown汉化教程 (支持PS官服与国服) & PS安卓APP 
 
+### NGA社区汉化教程（比较详细）
+
+https://bbs.nga.cn/read.php?tid=15085205
+
 ### PS官服网址 https://play.pokemonshowdown.com 
 
 ### PS国服网址 http://china.psim.us/ 
