@@ -21,3 +21,7 @@ https://github.com/freechipsproject/chisel3/wiki/Frequently-Asked-Questions
        exe_unit
     }
    ```
+
+### Init Reg Vector
+
+https://github.com/freechipsproject/chisel3/wiki/Cookbook#how-do-i-create-a-reg-of-type-vec
